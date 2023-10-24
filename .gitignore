@@ -5,3 +5,6 @@ runtime.i
 docs.json
 extism-test-*
 *.lst
+
+.dub
+dub.selections.json
