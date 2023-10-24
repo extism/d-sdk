@@ -11,8 +11,7 @@ D bindings to the Extism host SDK.
     See [Installing Extism](https://extism.org/docs/install) documentation.
 
     ```sh
-    extism install latest
-    extism link
+    sudo extism lib install latest
     ```
 
     > Note: The `extism install` command may require `sudo`.
